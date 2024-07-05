@@ -1,4 +1,4 @@
-# weather
+# Weather App
 Weather app using Flutter. 
 
 ## Language And Platform Used 
@@ -19,5 +19,11 @@ Weather app using Flutter.
 
 [![medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@paras.influxinfotech)
 
+## 🧾 GitHub stats :
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithParas)](https://github.com/CodingWithParas/github-readme-stats)
+
+## 😎 Fun Fact :
+
+### Code is not just about writing instructions, it's about telling a story 🎫
 
