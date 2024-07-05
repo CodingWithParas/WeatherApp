@@ -4,7 +4,7 @@ Weather app using Flutter.
 ## Language And Platform Used 
 
 ### **Language**  - Flutter, Dart  &nbsp;&nbsp;  **Platforme**  - Android Studio
-[![My Skills](https://skillicons.dev/icons?i=,,flutter,dart,,,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,,androidstudio)](https://skillicons.dev)
 
 ### 🚀 About Me :
 
